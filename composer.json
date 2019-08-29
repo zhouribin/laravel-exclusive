@@ -20,8 +20,7 @@
         "predis/predis": "^1.1",
         "ramsey/uuid": "^3.8",
         "tymon/jwt-auth": "dev-develop",
-        "ext-json": "*",
-        "ext-redis": "*"
+        "ext-json": "*"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
